@@ -2,12 +2,6 @@
 
 Siin on H5P harjutus.
 
--   Õunad
-
--   Pirnid
-
--   Banaanid
-
 ## Interaktiivne sisu
 
 ::: {.callout-tip icon="false"}
