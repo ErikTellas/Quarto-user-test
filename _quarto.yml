@@ -4,9 +4,9 @@ project:
 lang: et
 
 book:
-  title: "Quarto Kasutajatest"
+  title: "Quarto raamat"
   author: "Erik Tellas"
-  date: "11/17/2025"
+  date: "04/20/2026"
   chapters:
     - index.qmd
     - 1-H5P.qmd
